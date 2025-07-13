@@ -1,0 +1,19 @@
+[
+  {
+    "images": [
+      {
+        "_id": "string",
+        "annotations": [
+          {
+            "_id": "string",
+            "nodule": {
+              "score": "number",
+              "size": "string"
+            },
+            "coordinates": []
+          }
+        ]
+      }
+    ]
+  }
+]
